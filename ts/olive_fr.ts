@@ -6,7 +6,7 @@
     <message>
         <location filename="../dialogs/aboutdialog.cpp" line="24"/>
         <source>Olive is a non-linear video editor. This software is free and protected by the GNU GPL.</source>
-        <translation type="unfinished"></translation>
+        <translation>Olive est un éditeur de vidéo non linéaire. Ce logiciel est gratuit et protégé par la GNU GPL.</translation>
     </message>
     <message>
         <location filename="../dialogs/aboutdialog.cpp" line="26"/>
@@ -19,7 +19,7 @@
     <message>
         <location filename="../dialogs/actionsearch.cpp" line="26"/>
         <source>Search for action...</source>
-        <translation type="unfinished"></translation>
+        <translation>Recherche d'action...</translation>
     </message>
 </context>
 <context>
@@ -27,12 +27,12 @@
     <message>
         <location filename="../playback/audio.cpp" line="290"/>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio</translation>
     </message>
     <message>
         <location filename="../playback/audio.cpp" line="301"/>
         <source>Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrement</translation>
     </message>
 </context>
 <context>
@@ -45,7 +45,7 @@
     <message>
         <location filename="../effects/internal/audionoiseeffect.cpp" line="12"/>
         <source>Mix</source>
-        <translation type="unfinished"></translation>
+        <translation>Mélanger</translation>
     </message>
 </context>
 <context>
@@ -53,17 +53,17 @@
     <message>
         <location filename="../project/media.cpp" line="32"/>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Invalide</translation>
     </message>
     <message>
         <location filename="../project/media.cpp" line="33"/>
         <source>Mono</source>
-        <translation type="unfinished"></translation>
+        <translation>Mono</translation>
     </message>
     <message>
         <location filename="../project/media.cpp" line="34"/>
         <source>Stereo</source>
-        <translation type="unfinished"></translation>
+        <translation>Stéréo</translation>
     </message>
 </context>
 <context>
@@ -71,7 +71,7 @@
     <message>
         <location filename="../ui/collapsiblewidget.cpp" line="36"/>
         <source>&lt;untitled&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;sans titre&gt;</translation>
     </message>
 </context>
 <context>
@@ -79,7 +79,7 @@
     <message>
         <location filename="../ui/colorbutton.cpp" line="34"/>
         <source>Set Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Définir la couleur</translation>
     </message>
 </context>
 <context>
@@ -87,27 +87,27 @@
     <message>
         <location filename="../effects/internal/cornerpineffect.cpp" line="11"/>
         <source>Top Left</source>
-        <translation type="unfinished"></translation>
+        <translation>En haut à gauche</translation>
     </message>
     <message>
         <location filename="../effects/internal/cornerpineffect.cpp" line="15"/>
         <source>Top Right</source>
-        <translation type="unfinished"></translation>
+        <translation>En haut à droite</translation>
     </message>
     <message>
         <location filename="../effects/internal/cornerpineffect.cpp" line="19"/>
         <source>Bottom Left</source>
-        <translation type="unfinished"></translation>
+        <translation>En bas à gauche</translation>
     </message>
     <message>
         <location filename="../effects/internal/cornerpineffect.cpp" line="23"/>
         <source>Bottom Right</source>
-        <translation type="unfinished"></translation>
+        <translation>En bas à droite</translation>
     </message>
     <message>
         <location filename="../effects/internal/cornerpineffect.cpp" line="27"/>
         <source>Perspective</source>
-        <translation type="unfinished"></translation>
+        <translation>Perspective</translation>
     </message>
 </context>
 <context>
@@ -115,7 +115,7 @@
     <message>
         <location filename="../dialogs/debugdialog.cpp" line="12"/>
         <source>Debug Log</source>
-        <translation type="unfinished"></translation>
+        <translation>Journal de débogage</translation>
     </message>
 </context>
 <context>
@@ -124,22 +124,22 @@
         <location filename="../dialogs/demonotice.cpp" line="10"/>
         <location filename="../dialogs/demonotice.cpp" line="27"/>
         <source>Welcome to Olive!</source>
-        <translation type="unfinished"></translation>
+        <translation>Bienvenue sur Olive!</translation>
     </message>
     <message>
         <location filename="../dialogs/demonotice.cpp" line="29"/>
         <source>Olive is a free open-source video editor released under the GNU GPL. If you have paid for this software, you have been scammed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Olive est un éditeur de vidéo open-source gratuit publié sous la licence GNU GPL. Si vous avez payé pour ce logiciel, vous avez été arnaqué.</translation>
     </message>
     <message>
         <location filename="../dialogs/demonotice.cpp" line="31"/>
         <source>This software is currently in ALPHA which means it is unstable and very likely to crash, have bugs, and have missing features. We offer no warranty so use at your own risk. Please report any bugs or feature requests at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce logiciel est actuellement en ALPHA, ce qui signifie qu’il est instable et qu’il risque de tomber en panne, d’avoir des bogues et d’avoir des fonctionnalités manquantes. Nous n'offrons aucune garantie, utilisez-le à vos risques et périls. Signalez les bogues ou demandes de fonctionnalités à %1.</translation>
     </message>
     <message>
         <location filename="../dialogs/demonotice.cpp" line="33"/>
         <source>Thank you for trying Olive and we hope you enjoy it!</source>
-        <translation type="unfinished"></translation>
+        <translation>Merci d'avoir essayé Olive et nous espérons que vous l'apprécierez!</translation>
     </message>
 </context>
 <context>
@@ -147,37 +147,37 @@
     <message>
         <location filename="../project/effect.cpp" line="79"/>
         <source>Invalid effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Effet invalide</translation>
     </message>
     <message>
         <location filename="../project/effect.cpp" line="80"/>
         <source>No candidate for effect &apos;%1&apos;. This effect may be corrupt. Try reinstalling it or Olive.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun candidat pour l'effet &apos;%1&apos;. Cet effet peut être corrompu. Essayez de le réinstaller ou Olive.</translation>
     </message>
     <message>
         <location filename="../project/effect.cpp" line="379"/>
         <source>Cu&amp;t</source>
-        <translation type="unfinished"></translation>
+        <translation>Couper</translation>
     </message>
     <message>
         <location filename="../project/effect.cpp" line="380"/>
         <source>&amp;Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Copier</translation>
     </message>
     <message>
         <location filename="../project/effect.cpp" line="387"/>
         <source>Move &amp;Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Déplacer vers le haut</translation>
     </message>
     <message>
         <location filename="../project/effect.cpp" line="391"/>
         <source>Move &amp;Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Déplacer vers le bas</translation>
     </message>
     <message>
         <location filename="../project/effect.cpp" line="396"/>
         <source>D&amp;elete</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer</translation>
     </message>
 </context>
 <context>
